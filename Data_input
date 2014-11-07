@@ -1,0 +1,1 @@
+STH <- read.csv("STH_raw_data_length_wt_stripped.csv", stringsAsFactors = FALSE, na.strings = c(""))
